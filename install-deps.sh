@@ -3,8 +3,9 @@ cd
 git clone https://github.com/rupa/z.git
 chmod +x ~/z/z.sh
 
+# https://github.com/jamiew/git-friendly
+cd
+git clone git://github.com/jamiew/git-friendly.git ~/dev/git-friendly
+
 # Homebrew
 ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go/install)
-
-# https://github.com/jamiew/git-friendly
-bash < <( curl https://raw.github.com/jamiew/git-friendly/master/install.sh)

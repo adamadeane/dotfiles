@@ -1,9 +1,3 @@
-source bootstrap.sh
-source install-deps.sh
-./.osx
-brew bundle ~/Brewfile
-brew bundle ~/Caskfile
-
 # Mathias’s dotfiles
 
 ![Screenshot of my shell prompt](http://i.imgur.com/EkEtphC.png)
