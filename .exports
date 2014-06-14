@@ -23,3 +23,7 @@ export GREP_OPTIONS="--color=auto";
 
 # Link Homebrew casks in `/Applications` rather than `~/Applications`
 export HOMEBREW_CASK_OPTS="--appdir=/Applications";
+
+# Timestamps for bash history
+HISTTIMEFORMAT='%F %T '
+export HISTTIMEFORMAT
