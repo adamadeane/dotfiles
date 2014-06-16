@@ -12,3 +12,6 @@ ruby <(curl -fsSkL raw.github.com/mxcl/homebrew/go/install)
 
 # https://rvm.io
 curl -L https://get.rvm.io | bash -s stable --ruby
+
+# Setup subl shortcut for Sublime Text (3)
+sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/bin/subl
