@@ -1,5 +1,5 @@
 # Create a path for https://github.com/jamiew/git-friendly
-export PATH=~/dev/git-friendly:$PATH
+export PATH=~/git-friendly:$PATH
 
 # Add `~/bin` to the `$PATH`
 export PATH="/usr/local/bin:$PATH"
