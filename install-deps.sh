@@ -15,3 +15,6 @@ curl -L https://get.rvm.io | bash -s stable --ruby
 
 # Setup subl shortcut for Sublime Text (3)
 sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/bin/subl
+
+# Setup atom shortcut for Atom
+sudo ln -s /Applications/Atom.app/Contents/MacOS/Atom /usr/local/bin/atom

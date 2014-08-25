@@ -18,6 +18,7 @@ alias h="history"
 alias j="jobs"
 alias v="vim"
 alias s="subl ."
+alias a="atom ."
 alias o="open"
 alias oo="open ."
 
